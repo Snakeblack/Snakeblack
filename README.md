@@ -8,7 +8,8 @@ I've been learning to code for 4 years. I started with HTML, but have really fou
 
 * 🌍  I'm based in Madrid
 * 🖥️  See my portfolio at [MyPortfolio](http://mretamozo.com)
-* ✉️  You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com)
+* 📑  Visit my [LinkedIn](https://www.linkedin.com/in/mmretamozo)
+* ✉️  You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com)
 * 🚀  I'm currently working on [CEF](http://cef.es)
 * 🧠  I'm learning OCP Java
 
