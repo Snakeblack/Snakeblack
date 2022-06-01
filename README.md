@@ -4,7 +4,7 @@ Hi 👋 My name is Manuel
 Web Developer nd Designer
 -------------------------
 
-I've been learning to code for 4 years. I started with HTML, but have really found a passion for frontend development with JS (React), although the backend is also important and interesting.
+I've been learning to code for 4 years. I started with JS, but have really found a passion for frontend development with JS (React), although the backend is also important and interesting.
 
 * 🌍  I'm based in Madrid
 * 🖥️  See my portfolio at [MyPortfolio](http://mretamozo.com)
