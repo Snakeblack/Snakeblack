@@ -55,6 +55,6 @@ I've been learning to code for 4 years. I started with JS, but have really found
 
 <div width="100%" align="center"><a href="https://github.com/Snakeblack/GIF-APP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snakeblack&repo=GIF-APP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me ;)
+### 🫂 How to support me
 
 <a href="https://www.buymeacoffee.com/mretamozo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
