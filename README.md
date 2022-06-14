@@ -1,16 +1,17 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Manuel</b>
 <br>
 
-<p>Hey there, welcome!</br>
-I'm Manuel, Full stack developer from 🌞 Madrid, Spain.
+<p>
+    <p>Hey there, welcome!</br>
+    I'm Manuel, Full stack developer from 🌞 Madrid, Spain.</p>
 
-* 💡 &nbsp;I like to explore new trends and learn new technologies.\
-* 🖥️  See my portfolio at [MyPortfolio](http://mretamozo.com)
-* 💼  Visit my [LinkedIn](https://www.linkedin.com/in/mmretamozo)
-* ✉️  You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com)
-* 🚀  I'm currently working on [CEF](http://cef.es)
-* 🧠  I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://dev.java/" target="_blank"><u>Java</u></a> y <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>Nodejs</u></a>.\
-</p>
+    💡 &nbsp;I like to explore new trends and learn new technologies.\
+    🖥️ &nbsp;See my portfolio at [MyPortfolio](http://mretamozo.com).\
+    💼 &nbsp;Visit my [LinkedIn](https://www.linkedin.com/in/mmretamozo).\
+    ✉️ &nbsp;You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com).\
+    🚀 &nbsp;I'm currently working on [CEF](http://cef.es).\
+    🧠 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://dev.java/" target="_blank"><u>Java</u></a> y <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>Nodejs</u></a>.\
+    </p>
 <br>
 
 ### 🦾 &nbsp;Skills ##
