@@ -1,12 +1,10 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Manuel</b>
 <br>
 
-Web Developer nd Designer
--------------------------
+Hey there, welcome!
+I'm Manuel, Full stack developer from 🌞 Madrid, Spain.
 
-I've been learning to code for 4 years. I started with JS, but have really found a passion for frontend development with JS (React), although the backend is also important and interesting.
-
-* 🌍  I'm based in Madrid
+* 💡 &nbsp;I like to explore new trends and learn new technologies.\
 * 🖥️  See my portfolio at [MyPortfolio](http://mretamozo.com)
 * 💼  Visit my [LinkedIn](https://www.linkedin.com/in/mmretamozo)
 * ✉️  You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com)
