@@ -1,5 +1,5 @@
-Hi 👋 My name is Manuel
-=======================
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Manuel</b>
+<br>
 
 Web Developer nd Designer
 -------------------------
@@ -13,7 +13,7 @@ I've been learning to code for 4 years. I started with JS, but have really found
 * 🚀  I'm currently working on [CEF](http://cef.es)
 * 🧠  I'm learning OCP Java
 
-### Skills
+### 🦾 &nbsp;Skills ##
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -37,13 +37,13 @@ I've been learning to code for 4 years. I started with JS, but have really found
 </p>
 
 
-### Socials
+## 🌎 &nbsp;Where to find me ##
 
 <p align="left"> <a href="https://www.codepen.io/Snakeblack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sn4ke#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Snakeblack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mmretamozo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https:///app.hackthebox.com/users/890754" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12329143/snakeblack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges ##
 
-<b>My GitHub Stats</b>
+## 📈 &nbsp;Some Github Stats ##
 
 <a href="http://www.github.com/Snakeblack"><img src="https://github-readme-stats.vercel.app/api?username=Snakeblack&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Snakeblack's GitHub stats" /></a>
 
@@ -51,10 +51,6 @@ I've been learning to code for 4 years. I started with JS, but have really found
 
 <a href="https://github.com/Snakeblack" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snakeblack&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Snakeblack/GIF-APP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snakeblack&repo=GIF-APP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### 🫂 How to support me
+## 🫂 How to support me ##
 
 <a href="https://www.buymeacoffee.com/mretamozo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
