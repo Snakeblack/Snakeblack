@@ -68,6 +68,15 @@
 </table>
 <br>
 
+## 🎓 &nbsp;42 Madrid Stats ##
+
+<Table>
+<tr>
+  <td>
+    <a href="https://42madrid.com"><img src="https://badge42.vercel.app/api/v2/cl5s37h79003009l6t6yfwmq3/stats?cursusId=21&coalitionId=64" alt="mretamoz's 42 stats" /></a>
+  </td>
+</tr>
+
 ## 🫂 How to support me ##
 
 <a href="https://www.buymeacoffee.com/mretamozo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
