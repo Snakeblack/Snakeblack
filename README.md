@@ -6,8 +6,8 @@
   I'm Manuel, Full stack developer from 🌞 Madrid, Spain.</p>
 
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  📒 &nbsp;See my [blog](https://blog.mretamozo.com).\ 
-  🖥️ &nbsp;See my portfolio at [mretamozo.com](http://mretamozo.com).\ 
+  📒 &nbsp;See my [blog](https://blog.mretamozo.com).\
+  🖥️ &nbsp;See my portfolio at [mretamozo.com](http://mretamozo.com).\
   💼 &nbsp;Visit my [LinkedIn](https://www.linkedin.com/in/mmretamozo).\
   ✉️ &nbsp;You can contact me at [hello@mretamozo.com](mailto:hello@mretamozo.com).\
   🚀 &nbsp;I'm currently working on [CEF](http://cef.es).\
